@@ -10,29 +10,28 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            Ship shipObject = new Ship();
-            
-            // too big crew input test
-            Console.WriteLine(shipObject.Crew);
-            shipObject.Crew = 120000;
-            Console.WriteLine(shipObject.Crew);
-            //
-            
-            // base constructor also has to be called
-            MilitaryShip militaryShip = new MilitaryShip(2, 12);
-            //
+            // static fields demonstration
+            Console.WriteLine("Static field: " + Planet.INHABIT_DISTANCE_MAX + "\n");
 
-            // abstract method testing
-            Submarine submarine = new Submarine(1);
-            militaryShip.hasFireExterminatedTarget();
-            //
+            // properies demonstration
+            SpaceObject spaceObject = new SpaceObject("object1");
+            spaceObject.Weight = -1;
+            Console.WriteLine("properties demo: " + spaceObject.Weight);
+            spaceObject.Weight = 12;
+            Console.WriteLine("properties demo: " + spaceObject.Weight + "\n");
 
-            // protected field and method testing
-            Tanker tanker = new Tanker();
-            Console.WriteLine(tanker.getMaxSpeed());
-            //
+            // constructor demonstration
+            Console.WriteLine("constructor demo:");
+            Star star = new Star("Star1");
+            Console.WriteLine("\n");
 
-            Console.ReadLine();
+            // virtual and overrided methods demonstration
+            Planet mars = new Planet("Mars");
+            Console.WriteLine("virtual: " + spaceObject.getNeededTimeToGetTemperature(12345));
+            Console.WriteLine("overrided: " + mars.getNeededTimeToGetTemperature(12345));
+
+
+            Console.ReadKey();
         }
     }
 }
