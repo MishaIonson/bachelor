@@ -13,7 +13,7 @@ namespace Lab1
             // static fields demonstration
             Console.WriteLine("Static field: " + Planet.INHABIT_DISTANCE_MAX + "\n");
 
-            // properies demonstration
+            // properties demonstration
             SpaceObject spaceObject = new SpaceObject("object1");
             spaceObject.Weight = -1;
             Console.WriteLine("properties demo: " + spaceObject.Weight);
@@ -29,7 +29,6 @@ namespace Lab1
             Planet mars = new Planet("Mars");
             Console.WriteLine("virtual: " + spaceObject.getNeededTimeToGetTemperature(12345));
             Console.WriteLine("overrided: " + mars.getNeededTimeToGetTemperature(12345));
-
 
             Console.ReadKey();
         }

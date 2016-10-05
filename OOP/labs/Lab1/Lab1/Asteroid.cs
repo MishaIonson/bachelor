@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    class Asteroid
+    class Asteroid : SpaceObject
     {
         /* if planet's diameter >= MIN_DIAMETER_OF_PLANET_TO_BE_COLLAPSED 
          * then in case if asteroid is faster then planet,
@@ -19,7 +19,7 @@ namespace Lab1
             MIN_DIAMETER_OF_PLANET_TO_BE_COLLAPSED = 10230;
         }
 
-        private Asteroid()
+        private Asteroid(String name) : base(name)
         {
 
         }
