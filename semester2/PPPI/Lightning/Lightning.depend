@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461603954 source:c:\repository\lightning\serial.cpp
+	"SerialClass.h"
+
+1461603966 c:\repository\lightning\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1463856700 source:c:\repository\lightning\main.cpp
+	<iostream>
+	<conio.h>
+	"SerialClass.h"
+
