@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449318674 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/labs/lab4/astronomy/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+

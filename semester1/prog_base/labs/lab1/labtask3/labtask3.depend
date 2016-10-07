@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443803271 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/labs/lab1/labtask3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+

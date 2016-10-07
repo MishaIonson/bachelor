@@ -1,0 +1,30 @@
+
+<!--POST in addInv.html is constructed to easily add the driver
+    while working with API representation (instead of using cURL).
+-->
+
+<html>
+<head>
+</head>
+<body >
+<form action="http://127.0.0.1:5000/api/drivers" method="POST"><center>
+	First Name:<br>
+	<input type="text" name="name" value='Dany'><br>
+	Nickname:<br>
+	<input type="text" name="nickname" value='aus'><br>
+	Surname:<br>
+	<input type="text" name="surname" value="Riccardo"><br>
+	Way:<br>
+	<input type="text" name="way" value="5.5"><br>
+	Birthday:<br>
+	<input type="text" name="birthday" value="1995-01-01"><br>
+	Experience in years:<br>
+	<input type="text" name="experienceYears" value="10"><br>
+	Salary:<br>
+	<input type="text" name="totalsalaryested" value="25000"><br>
+	BusName:<br>
+	<input type="text" name="aaa" value="aaa"><br>
+	<input type="submit" value='Send POST request' /></center>
+</form>
+</body>
+</html>

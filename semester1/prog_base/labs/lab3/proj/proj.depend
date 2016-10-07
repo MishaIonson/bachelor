@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1448097979 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/labs/lab3/proj/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"time.h"
+	"math.h"
+
+1448088972 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/labs/lab3/proj/operation.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"time.h"
+	"math.h"
+
+1448035772 /home/mikhail/Documents/kpi/opLesson/courses/prog_base/labs/lab3/proj/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"time.h"
+	"math.h"
+	"operation.c"
+
+1448035740 /home/mikhail/Documents/kpi/opLesson/courses/prog_base/labs/lab3/proj/operation.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"time.h"
+	"math.h"
+	"main.c"
+
+1448096607 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/labs/lab3/proj/the_intro_talk.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"time.h"
+	"math.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1458997917 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab1\mclient.c
+	"mserver.h"
+	"mclient.h"
+
+1458997899 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab1\mserver.c
+	"mserver.h"
+	"mclient.h"
+
+1458997864 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab1\mserver.h
+
+1458997880 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab1\mclient.h
+	"mserver.h"
+
+1458998130 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab1\main.c
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<setjmp.h>
+	<cmocka.h>
+	"mserver.h"
+	"mclient.h"
+

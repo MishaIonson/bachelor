@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449912521 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/self/kr2/num1/main.c
+	<stdio.h>
+	<stdlib.h>
+

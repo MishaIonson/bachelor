@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1458517052 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\unit_tests\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<setjmp.h>
+	<cmocka.h>
+	"module.h"
+
+1458517052 d:\githubkpi\oplesson\courses\prog_base_2\tasks\unit_tests\module.h
+
+1458517052 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\unit_tests\module.c
+	<stdlib.h>
+	<stdio.h>
+	"module.h"
+

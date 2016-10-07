@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446286061 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/tasks/self/kr/kr1/n6/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

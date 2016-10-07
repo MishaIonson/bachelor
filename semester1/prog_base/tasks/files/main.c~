@@ -1,0 +1,70 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void fprocess(const char *pread, const char *pwrite)
+{
+    int i, index, j, line=1;
+    int less_zero=0; // boolean
+    int num[1000] = {0};
+    int answer, maxim;
+    while(line!=2)
+    {
+        while(pread[i]!='\n')
+        {
+            i++;
+        }
+        line++;
+        i++;
+    }
+    line = pread[i] - '0';
+    i++;
+    while(pread[i]!=' ')
+    {
+        line = line*10 + pread[i] - '0';
+        i++;
+    }
+    index=0;
+    i++;
+    j=i;
+    while(i<j+line)
+    {
+        less_zero = 0;
+        if (pread[i]=='-')
+        {
+            less_zero = 1; // true
+            i++;
+        }
+        while(pread[i]!=',')
+        {
+            num[index] = num[index]*10 + pread[i] - '0';
+            i++;
+        }
+
+        if (less_zero==1)
+        {
+            num[index]*=-1;
+        }
+        index++;
+        i++;
+    }
+    maxim = num[0];
+    answer=0;
+    for (i=1; i<index; i++)
+    {
+        if (maxim<num[i])
+        {
+            maxim = num[i];
+            answer = i;
+        }
+    }
+    FILE *out = fopen(pwrite, "w");
+    fprintf(out, "%i\n", answer);
+    fclose(out);
+}
+int main()
+{
+    const char *x="hello \n7 -32,2,4,,,,,my\nname\misha";
+    const char *y="hello\nmy\nname\misha";
+    fprocess(x, y);
+    return 0;
+}

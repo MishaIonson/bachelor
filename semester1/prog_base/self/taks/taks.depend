@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448697884 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/self/taks/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

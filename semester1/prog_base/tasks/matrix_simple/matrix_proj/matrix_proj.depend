@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445787564 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/tasks/matrix_simple/matrix_proj/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

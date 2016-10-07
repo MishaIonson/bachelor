@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1449998170 source:c:\users\michael\desktop\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1449943112 source:c:\users\michael\desktop\snake\cleanscreen.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1449938426 source:c:\users\michael\desktop\snake\loop.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1449945758 c:\users\michael\desktop\snake\snake_type.h
+
+1449997662 source:c:\users\michael\desktop\snake\buffer.c
+	<stdlib.h>
+	<stdio.h>
+	"buffer.h"
+	"console.h"
+	"windows.h"
+
+1449997127 c:\users\michael\desktop\snake\buffer.h
+
+1449997536 c:\users\michael\desktop\snake\console.h
+

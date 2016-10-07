@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442416358 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/tasks/numeral_systems_conversion/ns_conversion/main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+

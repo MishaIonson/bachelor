@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449334420 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/tasks/struct/proj/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

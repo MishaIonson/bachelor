@@ -1,0 +1,684 @@
+# depslib dependency file v1.0
+1461519543 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1461519589 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\cjson.h
+
+1464373494 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<libxml/parser.h>
+	<libxml/tree.h>
+	"driver.h"
+
+1461526751 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\parser.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+	<libxml/hash.h>
+	<libxml/valid.h>
+	<libxml/entities.h>
+	<libxml/xmlerror.h>
+	<libxml/xmlstring.h>
+	<libxml/encoding.h>
+	<libxml/xmlIO.h>
+	<libxml/globals.h>
+
+1461526753 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlversion.h
+	<libxml/xmlexports.h>
+	<ansidecl.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlexports.h
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\tree.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/xmlstring.h>
+	<libxml/xmlregexp.h>
+	<libxml/xmlmemory.h>
+
+1461526753 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlstring.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlregexp.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+
+1461526750 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\dict.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlmemory.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/threads.h>
+	<libxml/globals.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\threads.h
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+
+1461526750 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\globals.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xmlerror.h>
+	<libxml/SAX.h>
+	<libxml/SAX2.h>
+	<libxml/xmlmemory.h>
+	<libxml/threads.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlerror.h
+	<libxml/parser.h>
+
+1461526751 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\sax.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xlink.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1461526751 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\sax2.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1461526750 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\hash.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/dict.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\valid.h
+	<libxml/xmlversion.h>
+	<libxml/xmlerror.h>
+	<libxml/tree.h>
+	<libxml/list.h>
+	<libxml/xmlautomata.h>
+	<libxml/xmlregexp.h>
+
+1461526751 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\list.h
+	<libxml/xmlversion.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlautomata.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/xmlregexp.h>
+
+1461526750 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\entities.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1461526750 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\encoding.h
+	<libxml/xmlversion.h>
+	<iconv.h>
+	<unicode/ucnv.h>
+	<libxml/tree.h>
+
+1461527445 c:\users\mykhailoivanov\desktop\iconv-1.9.2.win32\include\iconv.h
+	"iconv.h"
+	<stddef.h>
+	<errno.h>
+
+1461526752 c:\users\mykhailoivanov\desktop\libxml2-2.7.8.win32\include\libxml\xmlio.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+	<libxml/tree.h>
+	<libxml/parser.h>
+	<libxml/encoding.h>
+
+1461524002 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\driver.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1461527931 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\driver_json.c
+	"driver_json.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461524918 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\driver_json.h
+	"driver.h"
+	"cJSON.h"
+
+1461527944 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\http.c
+	<stddef.h>
+	"http.h"
+	<stdio.h>
+	<string.h>
+
+1461522281 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\http.h
+
+1461527975 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock.h>
+	"socket.h"
+	"server.h"
+	"driver.h"
+	"http.h"
+
+1461522376 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\socket.h
+
+1461527964 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\server.h
+	<winsock.h>
+	"socket.h"
+	"driver.h"
+	<string.h>
+	"http.h"
+
+1461528170 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"http.h"
+	<ctype.h>
+	"driver.h"
+	"server.h"
+
+1461522401 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\socket_win.c
+	<winsock2.h>
+	"socket.h"
+
+1464370993 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\parser.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+	<libxml/hash.h>
+	<libxml/valid.h>
+	<libxml/entities.h>
+	<libxml/xmlerror.h>
+	<libxml/xmlstring.h>
+	<libxml/encoding.h>
+	<libxml/xmlIO.h>
+	<libxml/globals.h>
+
+1464370996 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlversion.h
+	<libxml/xmlexports.h>
+	<ansidecl.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlexports.h
+
+1464370994 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\tree.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/xmlstring.h>
+	<libxml/xmlregexp.h>
+	<libxml/xmlmemory.h>
+
+1464370996 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlstring.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+
+1464370996 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlregexp.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+
+1464370991 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\dict.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlmemory.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/threads.h>
+	<libxml/globals.h>
+
+1464370994 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\threads.h
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\globals.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xmlerror.h>
+	<libxml/SAX.h>
+	<libxml/SAX2.h>
+	<libxml/xmlmemory.h>
+	<libxml/threads.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlerror.h
+	<libxml/parser.h>
+
+1464370993 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\sax.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xlink.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1464370993 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\sax2.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\hash.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/dict.h>
+
+1464370994 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\valid.h
+	<libxml/xmlversion.h>
+	<libxml/xmlerror.h>
+	<libxml/tree.h>
+	<libxml/list.h>
+	<libxml/xmlautomata.h>
+	<libxml/xmlregexp.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\list.h
+	<libxml/xmlversion.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlautomata.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/xmlregexp.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\entities.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\encoding.h
+	<libxml/xmlversion.h>
+	<iconv.h>
+	<unicode/ucnv.h>
+	<libxml/tree.h>
+
+1464370988 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\iconv-1.9.2.win32\include\iconv.h
+	"iconv.h"
+	<stddef.h>
+	<errno.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\tasks\server\libxml2-2.7.8.win32\include\libxml\xmlio.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+	<libxml/tree.h>
+	<libxml/parser.h>
+	<libxml/encoding.h>
+
+1461519543 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1461519589 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\cjson.h
+
+1464384616 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\driver.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"cJSON/cJSON.h"
+	"driverStruct.h"
+	"driver.h"
+
+1464370993 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\parser.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+	<libxml/hash.h>
+	<libxml/valid.h>
+	<libxml/entities.h>
+	<libxml/xmlerror.h>
+	<libxml/xmlstring.h>
+	<libxml/encoding.h>
+	<libxml/xmlIO.h>
+	<libxml/globals.h>
+
+1464370996 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlversion.h
+	<libxml/xmlexports.h>
+	<ansidecl.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlexports.h
+
+1464370994 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\tree.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/xmlstring.h>
+	<libxml/xmlregexp.h>
+	<libxml/xmlmemory.h>
+
+1464370996 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlstring.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+
+1464370996 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlregexp.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+
+1464370991 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\dict.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlmemory.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/threads.h>
+	<libxml/globals.h>
+
+1464370994 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\threads.h
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\globals.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xmlerror.h>
+	<libxml/SAX.h>
+	<libxml/SAX2.h>
+	<libxml/xmlmemory.h>
+	<libxml/threads.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlerror.h
+	<libxml/parser.h>
+
+1464370993 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\sax.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xlink.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1464370993 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\sax2.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\hash.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/dict.h>
+
+1464370994 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\valid.h
+	<libxml/xmlversion.h>
+	<libxml/xmlerror.h>
+	<libxml/tree.h>
+	<libxml/list.h>
+	<libxml/xmlautomata.h>
+	<libxml/xmlregexp.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\list.h
+	<libxml/xmlversion.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlautomata.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/xmlregexp.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\entities.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1464370992 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\encoding.h
+	<libxml/xmlversion.h>
+	<iconv.h>
+	<unicode/ucnv.h>
+	<libxml/tree.h>
+
+1464370988 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\iconv-1.9.2.win32\include\iconv.h
+	"iconv.h"
+	<stddef.h>
+	<errno.h>
+
+1464370995 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\libxml2-2.7.8.win32\include\libxml\xmlio.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+	<libxml/tree.h>
+	<libxml/parser.h>
+	<libxml/encoding.h>
+
+1464383123 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\driver.h
+	"list.h"
+
+1461527931 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\driver_json.c
+	"driver_json.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1464377406 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\driver_json.h
+	"driver.h"
+	"cJSON/cJSON.h"
+
+1461527944 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\http.c
+	<stddef.h>
+	"http.h"
+	<stdio.h>
+	<string.h>
+
+1461522281 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\http.h
+
+1464385632 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\main.c
+	<stdio.h>
+	<stdlib.h>
+	"server.h"
+
+1461522376 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\socket.h
+
+1464381179 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\server.h
+	"socket.h"
+	"http.h"
+	"driver.h"
+
+1464385419 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"driverStruct.h"
+	"server.h"
+
+1464378966 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\socket_win.c
+	<winsock2.h>
+	"socket.h"
+
+1461519543 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\cjson\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1461519589 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\cjson\cjson.h
+
+1464377377 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\list.h
+	<stdlib.h>
+
+1464376986 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\investorstruct.h
+	<time.h>
+
+1464377351 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\list.c
+	<stdlib.h>
+	"list.h"
+
+1464384854 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab4\server\driverstruct.h
+	<time.h>
+
+1461519543 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\cjson\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1461519589 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\cjson\cjson.h
+
+1465799776 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\driver.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"cJSON/cJSON.h"
+	"driverStruct.h"
+	"driver.h"
+
+1465797804 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\driverstruct.h
+	<time.h>
+
+1464383123 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\driver.h
+	"list.h"
+
+1464377377 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\list.h
+	<stdlib.h>
+
+1461527944 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\http.c
+	<stddef.h>
+	"http.h"
+	<stdio.h>
+	<string.h>
+
+1461522281 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\http.h
+
+1464377351 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\list.c
+	<stdlib.h>
+	"list.h"
+
+1465798201 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\main.c
+	<stdio.h>
+	<stdlib.h>
+	"server.h"
+
+1465796705 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\server.h
+	"socket.h"
+	"http.h"
+	"database.h"
+
+1461522376 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\socket.h
+
+1465799724 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"driverStruct.h"
+	"server.h"
+
+1464378966 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\socket_win.c
+	<winsock2.h>
+	"socket.h"
+
+1465797801 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\database.h
+	"SQLite/sqlite3.h"
+	"driver.h"
+
+1465796254 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\sqlite\sqlite3.h
+	<stdarg.h>
+
+1465798808 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\database.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"database.h"
+	"driverStruct.h"
+	"invArrStruct.h"
+
+1465797799 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\invarrstruct.h
+	"list/list.h"
+
+1465795878 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\list\list.h
+	<stdlib.h>
+
+1465795868 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\list\list.c
+	<stdlib.h>
+	"list.h"
+
+1465796276 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab5\server\sqlite\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<ctype.h>
+	<math.h>
+

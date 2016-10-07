@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1460723940 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\dynlib\dynlib\main.cpp
+	"main.h"
+
+1460724663 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\dynlib\dynlib\main.h
+	<windows.h>
+	"list.h"
+
+1460724220 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\dynlib\dynlib\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1460723863 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\dynlib\dynlib\dynlib1.c
+
+1460723943 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\dynlib\dynlib\dynlib1.cpp
+	"list.h"
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PokerCourses" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PokerCourses" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PokerCourses" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../../../../Program Files (x86)/CodeBlocks/sfml/include" />
+		</Compiler>
+		<Linker>
+			<Add library="sfml-graphics" />
+			<Add library="sfml-window" />
+			<Add library="sfml-system" />
+			<Add directory="../../../../../Program Files (x86)/CodeBlocks/sfml/lib" />
+		</Linker>
+		<Unit filename="AI.cpp" />
+		<Unit filename="AI.h" />
+		<Unit filename="CallBtn.cpp" />
+		<Unit filename="CallBtn.h" />
+		<Unit filename="Card.cpp" />
+		<Unit filename="Card.h" />
+		<Unit filename="Consts.h" />
+		<Unit filename="Deck.cpp" />
+		<Unit filename="Deck.h" />
+		<Unit filename="FoldBtn.cpp" />
+		<Unit filename="FoldBtn.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="Hand.cpp" />
+		<Unit filename="Hand.h" />
+		<Unit filename="MainMenu.cpp" />
+		<Unit filename="MainMenu.h" />
+		<Unit filename="MainWindow.cpp" />
+		<Unit filename="RaiseBtn.cpp" />
+		<Unit filename="RaiseBtn.h" />
+		<Unit filename="fonts/groovy.ttf" />
+		<Unit filename="img/CardFaces.png" />
+		<Unit filename="img/background.png" />
+		<Unit filename="img/callBTN.png" />
+		<Unit filename="img/cardIcon.png" />
+		<Unit filename="img/foldBTN.png" />
+		<Unit filename="img/multiplayerBTN.png" />
+		<Unit filename="img/raiseBTN.png" />
+		<Unit filename="img/singleplayerBTN.png" />
+		<Unit filename="img/traditional-playing-card-back-side-vector-original-design-generic-poker-eps-file-provided-standard-size-40706091.jpg" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460728156 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\app\app\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+

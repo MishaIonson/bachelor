@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1465817487 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\reextra\task2\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"os.h"
+	"program.h"
+
+1465816844 d:\githubkpi\oplesson\courses\prog_base_2\tests\reextra\task2\staticlib\os.h
+	"program.h"
+
+1465813865 d:\githubkpi\oplesson\courses\prog_base_2\tests\reextra\task2\staticlib\program.h
+

@@ -1,0 +1,4 @@
+EXPORTS
+    DllMain@12 @1
+    _Z12SomeFunctionPKc @2
+    list_Spaces @3

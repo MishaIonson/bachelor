@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463821483 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\mainprog\main.c
+	<stdio.h>
+	<stdlib.h>
+

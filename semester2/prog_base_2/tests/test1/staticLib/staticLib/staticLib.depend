@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1446671346 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\main.c
+
+1463811439 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\mail.c
+	"PostOffice.h"
+	<stdlib.h>
+	<stdio.h>
+
+1463821733 d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\postoffice.h
+
+1463821595 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\postoffice.c
+	"PostOffice.h"
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+	"User.h"
+	"Mail.h"
+	"Letter.h"
+
+1463819885 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\letter.c
+	"Letter.h"
+	<stdlib.h>
+	<stdio.h>
+
+1463811617 d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\letter.h
+
+1463819065 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\user.c
+	"User.h"
+	<stdlib.h>
+	<stdio.h>
+
+1463811768 d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\user.h
+
+1463811444 d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\mail.h
+
+1463816145 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\list.c
+	<stdlib.h>
+	"list.h"
+
+1463815549 d:\githubkpi\oplesson\courses\prog_base_2\tests\test1\staticlib\staticlib\list.h
+	<stdlib.h>
+

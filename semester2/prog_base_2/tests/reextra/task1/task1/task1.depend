@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1465807189 source:d:\githubkpi\oplesson\courses\prog_base_2\tests\reextra\task1\task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<setjmp.h>
+	<cmocka.h>
+

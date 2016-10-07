@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1461349802 source:c:\users\michael\desktop\lab3\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"communicator.h"
+
+1461349350 source:c:\users\michael\desktop\lab3\lab3\communicator.c
+	"communicator.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1461348892 c:\users\michael\desktop\lab3\lab3\communicator.h
+
+1461342720 source:c:\users\michael\desktop\lab3\lab3\list.c
+	<stdlib.h>
+	"list.h"
+
+1461342754 c:\users\michael\desktop\lab3\lab3\list.h
+
+1461346739 source:c:\users\michael\desktop\lab3\lab3\admin.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"admin.h"
+	"webpage.h"
+
+1461346752 c:\users\michael\desktop\lab3\lab3\admin.h
+	"webpage.h"
+
+1461346725 c:\users\michael\desktop\lab3\lab3\webpage.h
+
+1461346794 source:c:\users\michael\desktop\lab3\lab3\webpage.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"webpage.h"
+	"list.h"
+
+1461402368 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab3\communicator.c
+	"communicator.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1461401187 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab3\communicator.h
+
+1461402223 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"communicator.h"
+

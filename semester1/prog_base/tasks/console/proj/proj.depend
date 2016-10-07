@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447597033 source:/home/mikhail/Documents/kpi/opLesson/courses/prog_base/tasks/console/proj/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1460729055 source:d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\staticlib\staticlib\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1460728962 d:\githubkpi\oplesson\courses\prog_base_2\labs\lab2\staticlib\staticlib\list.h
+	<stdlib.h>
+	<stdio.h>
+

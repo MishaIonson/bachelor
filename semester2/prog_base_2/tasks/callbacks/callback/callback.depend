@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459109953 source:d:\githubkpi\oplesson\courses\prog_base_2\tasks\callbacks\callback\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+
