@@ -1,0 +1,19 @@
+img.PenguinPhoto{
+  width: 60;
+  height: 60;
+  float: right;
+}
+
+h1{
+  font-family: fantasy;
+}
+
+h3{
+  margin: 5;
+  padding: 0;
+}
+
+p{
+  font-style: italic;
+  color: black;
+}

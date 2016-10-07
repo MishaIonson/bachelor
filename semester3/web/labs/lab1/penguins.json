@@ -1,0 +1,26 @@
+{
+	"penguins":
+	[
+		{
+			"name": "Jim",
+			"weight": 15,
+			"region": "Africa",
+			"kids_number": 1
+			"date_of_birth": "2015-11-06"
+		}
+		{
+			"name": "Bob",
+			"weight": 50,
+			"region": "Canada",
+			"kids_number": 5
+			"date_of_birth": "2010-09-21"
+		}
+		{
+			"name": "Phill",
+			"weight": 40,
+			"region": "Antarctica",
+			"kids_number": 8
+			"date_of_birth": "2008-04-10"
+		}
+	]
+}
